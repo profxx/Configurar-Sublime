@@ -1,7 +1,7 @@
 # Configurações SUBLIME
 
 ## Passos
-1 - Ctrl Shft P - Control Package Install
+<p>1 - Ctrl Shft P - Control Package Install
 2 - Reiniciar Sublime
 3 - Ctrl Shft P - Control Package Install - <enter> - Terminus
 4 - Ctrl Shft P - Preferences: Terminus Command Palette
@@ -14,4 +14,4 @@
 ## Tomorrow's Color Schemes
 1 - Ctrl Shtf P - Control Package Install
 2 - Tomorrow Color Schemes
-3 - Preferences - Set Color Schemes
+	3 - Preferences - Set Color Schemes</p>
